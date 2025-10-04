@@ -8,7 +8,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br><br>
 
-- :school: I am a `Graduate` at [Faculty of Mathematics, Physics, and Computer Science](https://www.uclv.edu.cu/facultad-de-matematica-fisica-y-computacion/) at [Central University "Marta Abreu" of Las Villas](https://www.uclv.edu.cu/) and [42Barcelona](https://www.42barcelona.com/es/).
+- :school: I am a `Graduate` at [Faculty of Mathematics, Physics and Computer Science](https://www.uclv.edu.cu/facultad-de-matematica-fisica-y-computacion/) at [Central University "Marta Abreu" of Las Villas](https://www.uclv.edu.cu/) and [42Barcelona](https://www.42barcelona.com/es/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 <!-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://).
