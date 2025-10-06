@@ -11,15 +11,6 @@
 ---
 
 ## 🧑‍💻 About Me
-<table width="100%" style="background-image:url('https://github.com/jocorrea42/jocorrea42/blob/main/83WF.gif'); background-size:cover;">
-  <tr>
-    <td>
-      <h2 align="center">✨ About Me ✨</h2>
-      <p align="center">Soy Jose, estudiante de 42Barcelona...</p>
-    </td>
-  </tr>
-</table>
-
 <picture>
   <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/83WF.gif?raw=true" width="250" />
 </picture>
@@ -32,7 +23,6 @@
 ---
 
 ## 🌐 Connect with Me
-
 <p align="center">
   <a href="mailto:jrcorrearodriguez@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -85,6 +75,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
+
 
 ---
 
