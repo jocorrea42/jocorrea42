@@ -11,6 +11,15 @@
 ---
 
 ## 🧑‍💻 About Me
+<table width="100%" style="background-image:url('https://i.imgur.com/tuFondo.gif'); background-size:cover;">
+  <tr>
+    <td>
+      <h2 align="center">✨ About Me ✨</h2>
+      <p align="center">Soy Jose, estudiante de 42Barcelona...</p>
+    </td>
+  </tr>
+</table>
+
 <picture>
   <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/83WF.gif?raw=true" width="250" />
 </picture>
