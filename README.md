@@ -17,12 +17,12 @@
 <picture>
   <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/82gt.gif?raw=true" width="170" />
 </picture>
-
+<p align="center">
 - 🎓 Studied at [UCLV](https://www.uclv.edu.cu/) and [42 Barcelona](https://www.42barcelona.com/es/).  
 - 💡 I enjoy building solutions with code and learning new technologies.  
 - 🧠 Currently exploring advanced **C++**, **Python**, and **Web Development**.  
 - 🌱 Always improving my problem-solving and software design skills.
-
+</p>
 ---
 
 ## 🌐 Connect with Me
