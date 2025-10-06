@@ -8,7 +8,7 @@
   </a>
 </p>
 <picture>
-  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/Right_Side..gif?raw=true" width="50" />
+  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/Right_Side.gif?raw=true" width="50" />
 </picture>
 ---
 
