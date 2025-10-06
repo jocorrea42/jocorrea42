@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I am Jose<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+o<h1 align="center">Hi! I am Jose<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Bachelor+Computer+Science;42Barcelona+Commond-Core;Always+learning+new+things"></a>
 </p>
@@ -8,7 +8,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br><br>
 
-- :school: I am a `Graduated` at [Faculty of Mathematics, Physics and Computer Science](https://www.uclv.edu.cu/facultad-de-matematica-fisica-y-computacion/) at [Central University "Marta Abreu" of Las Villas](https://www.uclv.edu.cu/) and [42Barcelona](https://www.42barcelona.com/es/).
+- :school: I `Studied` in [Faculty of Mathematics, Physics and Computer Science](https://www.uclv.edu.cu/facultad-de-matematica-fisica-y-computacion/) at [Central University "Marta Abreu" of Las Villas](https://www.uclv.edu.cu/) and [42Barcelona](https://www.42barcelona.com/es/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 <!-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://).
