@@ -13,10 +13,6 @@
 ## 🧑‍💻 About Me
 <picture>
   <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/Right_Side.gif?raw=true" width="250" />
-  <a href='https://github.com/samadpls/Programing-Gifs'>
-  <img align='right' src='https://programing-gifs.vercel.app/' width=100 height=300 alt='samadpls/Programming-Gifs'>
-</a>
-
 </picture>
 
 - 🎓 Studied at [UCLV](https://www.uclv.edu.cu/) and [42 Barcelona](https://www.42barcelona.com/es/).  
