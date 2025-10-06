@@ -11,7 +11,7 @@
 ---
 
 ## 🧑‍💻 About Me
-<table width="100%" style="background-image:url('https://i.imgur.com/tuFondo.gif'); background-size:cover;">
+<table width="100%" style="background-image:url('https://github.com/jocorrea42/jocorrea42/blob/main/83WF.gif'); background-size:cover;">
   <tr>
     <td>
       <h2 align="center">✨ About Me ✨</h2>
