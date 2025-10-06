@@ -85,7 +85,7 @@
 ---
 ## 🐍 Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jocorrea42/jocorrea42/blob/main/Images/snake-dark.svg?raw=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/jocorrea42/jocorrea42/blob/main/Images/snake-light.svg?raw=true" />
-  <img alt="snake animation" src="https://github.com/jocorrea42/jocorrea42/blob/main/Images/snake-light.svg?raw=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jocorrea42/jocorrea42/blob/main/Images/MiImagenDark.gif?raw=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/jocorrea42/jocorrea42/blob/main/Images/MiImagenLight.gif?raw=true" />
+  <img alt="mi imagen" src="https://github.com/jocorrea42/jocorrea42/blob/main/Images/MiImagenLight.gif?raw=true" />
 </picture>
