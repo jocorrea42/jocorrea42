@@ -9,7 +9,7 @@
 </p>
 
 ---
-
+<br>
 ## 🧑‍💻 About Me
 <picture>
   <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/83WF.gif?raw=true" width="250" />
@@ -21,7 +21,7 @@
 - 🌱 Always improving my problem-solving and software design skills.
 
 ---
-
+<br>
 ## 🌐 Connect with Me
 
 <p align="center">
