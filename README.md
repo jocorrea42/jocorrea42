@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate;42Barcelona+Student;Always+Learning+Something+New!" />
   </a>
    <picture>
-  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/Right_Side.gif?raw=true" width="100" />
+  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/Right_Side.gif?raw=true" width="130" />
   </picture>
 </p>
 
