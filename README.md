@@ -1,39 +1,52 @@
+<!-- Banner superior -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate;42Barcelona+Student;Always+Learning+Something+New!" />
+</p>
+
 <h1 align="center">
   Hi there! I'm Jose 👋
 </h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate;42Barcelona+Student;Always+Learning+Something+New!" />
-  </a>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
-<picture>
-  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/83WF.gif?raw=true" width="250" />
-</picture>
-
-- 🎓 Studied at [UCLV](https://www.uclv.edu.cu/) and [42 Barcelona](https://www.42barcelona.com/es/).  
-- 💡 I enjoy building solutions with code and learning new technologies.  
-- 🧠 Currently exploring advanced **C++**, **Python**, and **Web Development**.  
-- 🌱 Always improving my problem-solving and software design skills.
+<table>
+  <tr>
+    <td width="70%">
+      - 🎓 Studied at [UCLV](https://www.uclv.edu.cu/) and [42 Barcelona](https://www.42barcelona.com/es/).<br>
+      - 💡 I enjoy building solutions with code and learning new technologies.<br>
+      - 🧠 Currently exploring advanced <b>C++</b>, <b>Python</b>, and <b>Web Development</b>.<br>
+      - 🌱 Always improving my problem-solving and software design skills.
+    </td>
+    <td width="30%" valign="top">
+      <img src="https://github.com/jocorrea42/jocorrea42/blob/main/83WF.gif?raw=true" width="250" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:jrcorrearodriguez@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/jocorrea42">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jrcorrearodriguez/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <p align="center">
+        <a href="mailto:jrcorrearodriguez@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+        <a href="https://github.com/jocorrea42">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://www.linkedin.com/in/jrcorrearodriguez/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="30%" valign="top">
+      <img src="https://github.com/jocorrea42/jocorrea42/blob/main/82gt.gif?raw=true" width="250" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -76,7 +89,6 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-
 ---
 
 ## ✨ Quote of the Day
@@ -94,4 +106,3 @@
     <img alt="snake animation" src="https://raw.githubusercontent.com/jocorrea42/jocorrea42/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
