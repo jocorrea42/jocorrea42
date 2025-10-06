@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 <picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250" />
+  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/Images/MiImagen.gif?raw=true" width="250" />
 </picture>
 
 - 🎓 Studied at [UCLV](https://www.uclv.edu.cu/) and [42 Barcelona](https://www.42barcelona.com/es/).  
@@ -85,8 +85,3 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/jocorrea42/jrcorrearodriguez/blob/main/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
