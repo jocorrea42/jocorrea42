@@ -85,10 +85,10 @@
 </p>
 
 ---
-
 ## 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jocorrea42/jocorrea42/blob/main/Images/snake-dark.svg?raw=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/jocorrea42/jocorrea42/blob/main/Images/snake-light.svg?raw=true" />
   <img alt="snake animation" src="https://github.com/jocorrea42/jocorrea42/blob/main/Images/snake-light.svg?raw=true" />
 </picture>
+
