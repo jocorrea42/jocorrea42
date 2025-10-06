@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 <picture>
-  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/Images/MiImagen.gif?raw=true" width="250" />
+  <img align="right" src="https://github.com/jocorrea42/jocorrea42/.github/Right_Side.gif?raw=true" width="250" />
 </picture>
 
 - 🎓 Studied at [UCLV](https://www.uclv.edu.cu/) and [42 Barcelona](https://www.42barcelona.com/es/).  
