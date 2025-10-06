@@ -26,6 +26,9 @@
 ---
 <br>
 ## 🌐 Connect with Me
+<picture>
+  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/83WF.gif?raw=true" width="250" />
+</picture>
 
 <p align="center">
   <a href="mailto:jrcorrearodriguez@gmail.com">
