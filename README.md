@@ -1,13 +1,11 @@
 <h1 align="center">
   Hi there! I'm Jose 👋
 </h1>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate;42Barcelona+Student;Always+Learning+Something+New!" />
   </a>
 </p>
-
 ---
 <br>
 ## 🧑‍💻 About Me
