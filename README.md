@@ -11,7 +11,7 @@
   <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/Right_Side.gif?raw=true" width="200" />
   </picture>
 ---
-
+<br>
 ## 🧑‍💻 About Me
 <picture>
   <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/82gt.gif?raw=true" width="250" />
