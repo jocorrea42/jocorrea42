@@ -16,7 +16,7 @@
 <!-- 🧑‍💻 ABOUT ME -->
 ## 🧑‍💻 About Me
 <picture>
-  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/fxac.gif?raw=true" width="250" />
+  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/fxac.gif?raw=true" width="230" />
 </picture>
 
 🚀 Passionate about technology and elegant code.  
