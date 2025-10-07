@@ -3,7 +3,7 @@
   👾 Hi there! I'm <span style="color:#39FF14;">Jose</span> 👋
 </h1>
 
-<p align="center">
+<p align="left">
    <picture>
   <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/LMR1.gif?raw=true" width="250" />
   </picture>
