@@ -25,9 +25,6 @@
 ⚡ Always learning something new — currently focused on **low-level systems** and **AI**.  
 
 ---
-<picture>
-  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/5TMy.gif?raw=true" width="100" />
-</picture>
 <!-- 🌐 CONNECT -->
 ## 🌐 Connect With Me
 <p align="center">
@@ -68,7 +65,9 @@
 </p>
 
 ---
-
+<picture>
+  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/5TMy.gif?raw=true" width="100" />
+</picture>
 <!-- 🐍 SNAKE -->
 <p align="center">
   <picture>
