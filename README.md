@@ -16,7 +16,7 @@
 <!-- 🧑‍💻 ABOUT ME -->
 ## 🧑‍💻 About Me
 <picture>
-  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/5TMy.gif?raw=true" width="250" />
+  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/fxac.gif?raw=true" width="250" />
 </picture>
 
 🚀 Passionate about technology and elegant code.  
@@ -25,7 +25,9 @@
 ⚡ Always learning something new — currently focused on **low-level systems** and **AI**.  
 
 ---
-
+<picture>
+  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/5TMy.gif?raw=true" width="100" />
+</picture>
 <!-- 🌐 CONNECT -->
 ## 🌐 Connect With Me
 <p align="center">
