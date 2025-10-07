@@ -14,10 +14,11 @@
 ---
 
 <!-- 🧑‍💻 ABOUT ME -->
-## 🧑‍💻 About Me
 <picture>
   <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/fxac.gif?raw=true" width="230" />
 </picture>
+
+## 🧑‍💻 About Me
 
 🚀 Passionate about technology and elegant code.  
 🎓 Studied at [UCLV](https://www.uclv.edu.cu/) and [42 Barcelona](https://www.42barcelona.com/es/).  
@@ -48,15 +49,16 @@
 </p>
 
 ### 🎨 Frontend Development
+<picture>
+  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/83WF.gif?raw=true" width="230" />
+</picture>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
-<picture>
-  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/83WF.gif?raw=true" width="230" />
-</picture>
+
 ### 🧰 Tools & Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
