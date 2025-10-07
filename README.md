@@ -99,7 +99,7 @@
 
 ---
 <picture>
-  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/5TMy.gif?raw=true" width="100" />
+  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/5TMy.gif?raw=true" width="80" />
 </picture>
 <!-- 🐍 SNAKE -->
 <p align="left">
