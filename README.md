@@ -5,10 +5,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate;42Barcelona+Student;Building+Cool+Things+With+Code!" alt="Typing SVG" />
-</p>
-<picture>
+  <picture>
   <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/LMR1.gif?raw=true" width="150" />
-</picture>
+  </picture>
+</p>
+
 
 ---
 
