@@ -16,7 +16,7 @@
 <!-- 🧑‍💻 ABOUT ME -->
 ## 🧑‍💻 About Me
 <picture>
-  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/83WF.gif?raw=true" width="250" />
+  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/5TMy.gif?raw=true" width="250" />
 </picture>
 
 🚀 Passionate about technology and elegant code.  
