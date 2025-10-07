@@ -75,7 +75,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
-
+<picture>
+  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/83WF.gif?raw=true" width="230" />
+</picture>
 ---
 
 <!-- 🎞️ ANIMATED GIF DECORATIONS -->
