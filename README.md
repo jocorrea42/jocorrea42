@@ -15,9 +15,12 @@
 
 <!-- 🧑‍💻 ABOUT ME -->
 ## 🧑‍💻 About Me
+
 <picture>
   <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/fxac.gif?raw=true" width="230" />
 </picture>
+
+
 🚀 Passionate about technology and elegant code.  
 🎓 Studied at [UCLV](https://www.uclv.edu.cu/) and [42 Barcelona](https://www.42barcelona.com/es/).  
 🧠 Exploring **C/C++**, **Python**,**JAVA**, and **Web Development**.  
@@ -38,7 +41,13 @@
 
 <br>
 ## 🛠️ Skills
+
+<picture>
+  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/83WF.gif?raw=true" width="230" />
+</picture>
+
 ### 💻 Programming Languages
+
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -47,9 +56,7 @@
 </p>
 
 ### 🎨 Frontend Development
-<picture>
-  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/83WF.gif?raw=true" width="230" />
-</picture>
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -58,6 +65,7 @@
 </p>
 
 ### 🧰 Tools & Frameworks
+
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -66,6 +74,7 @@
 </p>
 
 ### 💻 IDEs
+
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
@@ -73,12 +82,12 @@
 </p>
 
 ### 🖥️ Operating Systems
+
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
----
 
 <!-- 🎞️ ANIMATED GIF DECORATIONS -->
 <p align="center">
