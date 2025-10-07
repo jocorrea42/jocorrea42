@@ -99,11 +99,11 @@
 
 ---
 <picture>
-  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/5TMy.gif?raw=true" width="80" />
+  <img align="left" src="https://github.com/jocorrea42/jocorrea42/blob/main/5TMy.gif?raw=true" width="80" />
 </picture>
 <!-- 🐍 SNAKE -->
-<p align="left">
-  <picture>
+<p align="righ">
+  <picture align="righ">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jocorrea42/jocorrea42/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jocorrea42/jocorrea42/output/github-contribution-grid-snake.svg" />
     <img alt="snake animation" src="https://raw.githubusercontent.com/jocorrea42/jocorrea42/output/github-contribution-grid-snake-dark.svg" />
