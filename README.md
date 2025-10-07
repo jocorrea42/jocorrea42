@@ -42,7 +42,7 @@
 ## 🛠️ Skills
 
 <picture>
-  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/83WF.gif?raw=true" width="430" />
+  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/9kA5.gif?raw=true" width="430" />
 </picture>
 
 ### 💻 Programming Languages
