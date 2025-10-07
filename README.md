@@ -14,12 +14,10 @@
 ---
 
 <!-- 🧑‍💻 ABOUT ME -->
+## 🧑‍💻 About Me
 <picture>
   <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/fxac.gif?raw=true" width="230" />
 </picture>
-
-## 🧑‍💻 About Me
-
 🚀 Passionate about technology and elegant code.  
 🎓 Studied at [UCLV](https://www.uclv.edu.cu/) and [42 Barcelona](https://www.42barcelona.com/es/).  
 🧠 Exploring **C/C++**, **Python**,**JAVA**, and **Web Development**.  
