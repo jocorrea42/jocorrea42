@@ -25,7 +25,8 @@
 ⚡ Always improving my problem-solving and software design skills. 
 
 ---
-<!-- 🌐 CONNECT -->
+<br>
+
 ## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:jrcorrearodriguez@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
