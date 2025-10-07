@@ -6,16 +6,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate;42Barcelona+Student;Building+Cool+Things+With+Code!" alt="Typing SVG" />
 </p>
-<p align="right">
-  <img src="https://github.com/jocorrea42/jocorrea42/blob/main/LMR1.gif?raw=true" width="100" align="right" />
-</p>
+<picture>
+  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/LMR1.gif?raw=true" width="150" />
+</picture>
+
 ---
 
 <!-- 🧑‍💻 ABOUT ME -->
 ## 🧑‍💻 About Me
-<p align="right">
-  <img src="https://github.com/jocorrea42/jocorrea42/blob/main/83WF.gif?raw=true" width="250" align="right" />
-</p>
+<picture>
+  <img align="right" src="https://github.com/jocorrea42/jocorrea42/blob/main/83WF.gif?raw=true" width="250" />
+</picture>
 
 🚀 Passionate about technology and elegant code.  
 🎓 Studied at [UCLV](https://www.uclv.edu.cu/) and [42 Barcelona](https://www.42barcelona.com/es/).  
